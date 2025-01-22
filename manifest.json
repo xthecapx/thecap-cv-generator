@@ -1,0 +1,11 @@
+{
+	"id": "thecap-cv-generator",
+	"name": "Thecap CV Generator",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "A plugin to generate CVs from markdown files by Thecap",
+	"author": "Thecap",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
