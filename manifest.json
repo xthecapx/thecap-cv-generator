@@ -1,8 +1,8 @@
 {
 	"id": "thecap-cv-generator",
 	"name": "Thecap CV Generator",
-	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
+	"version": "1.0.1",
+	"minAppVersion": "1.0.1",
 	"description": "A plugin to generate CVs from markdown files by Thecap",
 	"author": "Thecap",
 	"authorUrl": "https://github.com/xthecapx/cv-generator/",
