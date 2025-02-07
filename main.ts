@@ -38,7 +38,7 @@ class CvModal extends Modal {
 	}
 }
 
-export default class MyPlugin extends Plugin {
+export default class ThecapCvGenerator extends Plugin {
 	async onload() {
 		this.addRibbonIcon('pdf-file', 'Preview CV', () => {
 			new CvModal(this.app).open();
