@@ -1,11 +1,11 @@
 {
 	"id": "thecap-cv-generator",
 	"name": "Thecap CV Generator",
-	"version": "1.0.3",
-	"minAppVersion": "1.0.3",
-	"description": "A plugin to generate CVs from markdown files by Thecap",
+	"version": "1.0.4",
+	"minAppVersion": "1.0.4",
+	"description": "Generate PDF curriculum from your notes.",
 	"author": "Thecap",
-	"authorUrl": "https://github.com/xthecapx/cv-generator/",
+	"authorUrl": "https://github.com/xthecapx",
 	"fundingUrl": "buymeacoffee.com/xthecapx",
 	"isDesktopOnly": false
 }
