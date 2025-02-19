@@ -1,8 +1,8 @@
 {
 	"id": "thecap-cv-generator",
 	"name": "Thecap CV Generator",
-	"version": "1.0.4",
-	"minAppVersion": "1.0.4",
+	"version": "1.0.5",
+	"minAppVersion": "1.0.5",
 	"description": "Generate PDF curriculum from your notes.",
 	"author": "Thecap",
 	"authorUrl": "https://github.com/xthecapx",
