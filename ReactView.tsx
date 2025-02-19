@@ -13,7 +13,7 @@ export const ReactView: React.FC<ReactViewProps> = ({ markdown }) => {
   if (!isValid) {
     return (
       <div className="react-view-container" style={{ padding: '20px', color: '#ff4444' }}>
-        <h3>Invalid CV Format</h3>
+        <h3>Invalid cv format</h3>
         <ul style={{ listStyle: 'none', padding: 0 }}>
           {errors.map((error, index) => (
             <li key={index} style={{ marginBottom: '8px' }}>❌ {error}</li>
